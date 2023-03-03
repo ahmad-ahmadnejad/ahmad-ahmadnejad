@@ -1,5 +1,5 @@
 # 💫 About Me:
-import React, { Fragment } from "react";<br><br>const AboutMe = () => {<br>  return (<><br>      🖥 Front-End Developer ; <br>     🏢Software engineer from Iran/Teran Technical<br>      University; <br>     💻Founder and member of the Scientific Association of Iran/Qom<br>      Technical University;<br>      {/* while ( !dead ) { //eat(); // sleep(); code();  */}<br>    </>);<br>};<br><br>export default AboutMe;
+import React, { Fragment } from "react";<br><br>const AboutMe = () => {<br>  return (<><br>      🖥 Front-End Developer ; <br>     🏢Software engineer from Iran/Tehran Technical<br>      University; <br>     💻Founder and member of the Scientific Association of Iran/Qom<br>      Technical University;<br>      {/* while ( !dead ) { //eat(); // sleep(); code();  */}<br>    </>);<br>};<br><br>export default AboutMe;
 
 
 ## 🌐 Socials:
